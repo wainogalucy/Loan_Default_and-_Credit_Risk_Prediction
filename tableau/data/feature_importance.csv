@@ -1,0 +1,16 @@
+feature,auc_drop,std
+total_past_due,0.07308,0.00109
+utilization,0.06898,0.00203
+age,0.01261,0.00086
+open_lines,0.00646,0.00041
+debt_ratio,0.00481,0.00044
+late_90,0.00347,0.00014
+income,0.00264,0.00071
+real_estate,0.0022,0.00034
+delinq_code_flag,0.00101,0.00023
+late_60_89,0.00094,0.00014
+dependents,0.00063,0.00023
+late_30_59,0.00048,0.00018
+income_missing,2e-05,0.0
+dependents_missing,0.0,1e-05
+debt_ratio_unreliable,-0.0,0.0

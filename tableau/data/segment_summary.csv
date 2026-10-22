@@ -1,0 +1,28 @@
+segment,borrowers,defaults,default_rate_pct,share_of_borrowers_%,share_of_all_defaults_%,risk_vs_average
+60+ days late | High (>75%) util | 35-54,3818,1762,46.15,2.55,17.57,6.9
+60+ days late | High (>75%) util | Under 35,1725,770,44.64,1.15,7.68,6.68
+60+ days late | High (>75%) util | 55+,1507,617,40.94,1.0,6.15,6.13
+60+ days late | Medium (30-75%) util | Under 35,437,143,32.72,0.29,1.43,4.9
+60+ days late | Medium (30-75%) util | 35-54,1440,443,30.76,0.96,4.42,4.6
+60+ days late | Medium (30-75%) util | 55+,848,219,25.83,0.57,2.18,3.86
+30-59 days late only | High (>75%) util | Under 35,942,231,24.52,0.63,2.3,3.67
+60+ days late | Low (<30%) util | Under 35,408,98,24.02,0.27,0.98,3.59
+30-59 days late only | High (>75%) util | 35-54,2592,597,23.03,1.73,5.95,3.45
+60+ days late | Low (<30%) util | 35-54,1451,290,19.99,0.97,2.89,2.99
+30-59 days late only | High (>75%) util | 55+,1158,215,18.57,0.77,2.14,2.78
+60+ days late | Low (<30%) util | 55+,1246,210,16.85,0.83,2.09,2.52
+30-59 days late only | Medium (30-75%) util | 35-54,2598,333,12.82,1.73,3.32,1.92
+30-59 days late only | Medium (30-75%) util | Under 35,594,74,12.46,0.4,0.74,1.86
+Never late | High (>75%) util | Under 35,3824,454,11.87,2.55,4.53,1.78
+Never late | High (>75%) util | 35-54,7401,744,10.05,4.93,7.42,1.5
+30-59 days late only | Medium (30-75%) util | 55+,1567,147,9.38,1.04,1.47,1.4
+30-59 days late only | Low (<30%) util | Under 35,670,46,6.87,0.45,0.46,1.03
+30-59 days late only | Low (<30%) util | 35-54,3652,241,6.6,2.43,2.4,0.99
+Never late | High (>75%) util | 55+,4556,255,5.6,3.04,2.54,0.84
+30-59 days late only | Low (<30%) util | 55+,3440,179,5.2,2.29,1.79,0.78
+Never late | Medium (30-75%) util | Under 35,3261,168,5.15,2.17,1.68,0.77
+Never late | Medium (30-75%) util | 35-54,11234,549,4.89,7.49,5.48,0.73
+Never late | Medium (30-75%) util | 55+,7615,244,3.2,5.08,2.43,0.48
+Never late | Low (<30%) util | Under 35,7378,166,2.25,4.92,1.66,0.34
+Never late | Low (<30%) util | 35-54,31153,476,1.53,20.77,4.75,0.23
+Never late | Low (<30%) util | 55+,43484,355,0.82,28.99,3.54,0.12
