@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Loan Default & Credit Risk Prediction
 
 **Which borrowers are likely to default, what characteristics go with repayment problems, and can we predict it?**
@@ -127,3 +128,7 @@ Hyper-parameter tuning, SHAP explanations, a weight-of-evidence scorecard, fairn
 
 ## Data and credits
 Data: Kaggle *Give Me Some Credit* competition (Credit Fusion, Will Cukierski). Use is subject to the competition's terms. Analysis code and documentation in this repository are original.
+=======
+# Loan_Default_and-_Credit_Risk_Prediction
+End-to-end credit risk project on 150K borrowers: SQL analysis, Python EDA, and ML models (Logistic Regression, Random Forest, Gradient Boosting) to predict loan default. ROC AUC 0.87, with risk segmentation and Tableau-ready outputs.
+>>>>>>> 664033308cfdeb00f62e9c924f52629e21fc18b7
